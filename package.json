@@ -8,11 +8,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
     "@vercel/analytics": "^1.0.2",
     "framer-motion": "^10.16.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@vitejs/plugin-react": "^5.0.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.14",
